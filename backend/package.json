@@ -1,0 +1,15 @@
+{
+    "name": "appsalon_mevn_backend",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "backend",
+    "main": "index.js",
+    "scripts": {
+        "start": "node --watch index.js"
+    },
+    "author": "Sg",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.1"
+    }
+}
